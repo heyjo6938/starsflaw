@@ -10,4 +10,5 @@
    
    $response = $db->query('SELECT * FROM user');
    $data = $response->fetch();
+   
 ?>
